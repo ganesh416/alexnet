@@ -7,7 +7,7 @@
      
      
      
-     ![image](https://user-images.githubusercontent.com/83450364/121547999-4598a180-ca2a-11eb-9f44-760862d18c96.png)
+  [image](https://user-images.githubusercontent.com/83450364/121547999-4598a180-ca2a-11eb-9f44-760862d18c96.png)
 
 AlexNet was the first convolutional network which used GPU to boost performance. 
 
